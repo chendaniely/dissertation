@@ -1,0 +1,9 @@
+[submodule "submodules/dissertation-plan"]
+	path = submodules/dissertation-plan
+	url = git@github.com:chendaniely/dissertation-plan.git
+[submodule "submodules/dissertation-irb"]
+	path = submodules/dissertation-irb
+	url = git@github.com:chendaniely/dissertation-irb.git
+[submodule "submodules/dissertation-analysis"]
+	path = submodules/dissertation-analysis
+	url = https://github.com/chendaniely/dissertation-analysis
