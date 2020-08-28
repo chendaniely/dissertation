@@ -7,3 +7,6 @@
 [submodule "submodules/dissertation-analysis"]
 	path = submodules/dissertation-analysis
 	url = https://github.com/chendaniely/dissertation-analysis
+[submodule "submodules/dissertation-presentations"]
+	path = submodules/dissertation-presentations
+	url = git@github.com:chendaniely/dissertation-presentations.git
