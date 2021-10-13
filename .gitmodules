@@ -13,3 +13,6 @@
 [submodule "submodules/dissertation-prelim"]
 	path = submodules/dissertation-prelim
 	url = git@github.com:chendaniely/dissertation-prelim.git
+[submodule "submodules/dissertation-edt"]
+	path = submodules/dissertation-edt
+	url = git@github.com:chendaniely/dissertation-edt.git
