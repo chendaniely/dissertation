@@ -11,3 +11,9 @@ The IRB: https://github.com/chendaniely/dissertation-irb/
 Analysis: https://github.com/chendaniely/dissertation-analysis
 
 Eventually these repos will be submodules of the main dissertation repo
+
+## Getting this repository
+
+```
+git clone --recurse-submodules git@github.com:chendaniely/dissertation.git
+```
