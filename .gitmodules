@@ -25,3 +25,6 @@
 [submodule "submodules/dissertation-paper-03-assessment"]
 	path = submodules/dissertation-paper-03-assessment
 	url = git@github.com:chendaniely/dissertation-paper-03-assessment.git
+[submodule "submodules/ds4biomed"]
+	path = submodules/ds4biomed
+	url = git@github.com:chendaniely/ds4biomed.git
