@@ -1,5 +1,9 @@
 # dissertation
 
+Official Dissertation Publication: https://vtechworks.lib.vt.edu/handle/10919/108073
+
+Dissertation Defense [Slides](https://docs.google.com/presentation/d/1BltC9pO5YOAEliawe8lYhEHTIpgnJLbr/edit?usp=sharing&ouid=116377365516798421771&rtpof=true&sd=true)
+
 My Plan: https://github.com/chendaniely/dissertation-plan
 
 The IRB: https://github.com/chendaniely/dissertation-irb/

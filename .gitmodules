@@ -22,3 +22,9 @@
 [submodule "submodules/dissertation-fun"]
 	path = submodules/dissertation-fun
 	url = git@github.com:chendaniely/dissertation-fun.git
+[submodule "submodules/dissertation-thank_you"]
+	path = submodules/dissertation-thank_you
+	url = git@github.com:chendaniely/dissertation-thank_you.git
+[submodule "submodules/dissertation-paper-03-assessment"]
+	path = submodules/dissertation-paper-03-assessment
+	url = git@github.com:chendaniely/dissertation-paper-03-assessment.git
