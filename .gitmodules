@@ -19,3 +19,6 @@
 [submodule "submodules/dissertation-phase4_exercises"]
 	path = submodules/dissertation-phase4_exercises
 	url = git@github.com:chendaniely/dissertation-phase4_exercises.git
+[submodule "submodules/dissertation-fun"]
+	path = submodules/dissertation-fun
+	url = git@github.com:chendaniely/dissertation-fun.git
